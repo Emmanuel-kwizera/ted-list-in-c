@@ -1,1 +1,1 @@
-# ted-list-in-c
+# ted list in C
