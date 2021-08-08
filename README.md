@@ -2,4 +2,4 @@
 Develop your knowledge in C programming language
 
 #### Content
-Nested list programming in C programming
+Nested list(node list) programming in C programming
